@@ -1,0 +1,10 @@
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\bin\Debug\CameraForms.exe.config
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\bin\Debug\CameraForms.exe
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\bin\Debug\CameraForms.pdb
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.csprojAssemblyReference.cache
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.Properties.Resources.resources
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.GenerateResource.cache
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.exe
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.pdb
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.Form1.resources
